@@ -3,6 +3,12 @@ Hello World!
 
 Full Satck Developer :man_technologist:
 
+I am a Mechatronics Engineer training to become a Full Stack Developer. I’m driven by technical challenges that demand persistence and detailed analysis, and I find genuine satisfaction in mastering complex concepts on my own.
+
+​Currently, I combine my technical foundation with intensive, self-taught learning. I maintain an open mindset toward growth, valuing direct communication and honest knowledge-sharing to keep strengthening my programming skills.
+
+​My goal is to apply my discipline and problem-solving ability to software projects. I am a consistent person focused on continuous improvement, always ready to take on the next technical challenge with dedication and professionalism.
+
 ## Tech & Tools
 
 #### Languages
