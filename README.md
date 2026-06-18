@@ -1,7 +1,6 @@
-Hello World!
-# Hi, I'm Diego Luna :octocat:
+# Hi, I'm Diego Luna
 
-Full Satck Developer :man_technologist:
+Full Satck Developer
 
 I am a Mechatronics Engineer training to become a Full Stack Developer. I’m driven by technical challenges that demand persistence and detailed analysis, and I find genuine satisfaction in mastering complex concepts on my own.
 
